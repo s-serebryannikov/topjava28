@@ -2,7 +2,6 @@ package ru.javawebinar.topjava.util;
 
 import ru.javawebinar.topjava.model.UserMeal;
 import ru.javawebinar.topjava.model.UserMealWithExcess;
-import sun.util.resources.LocaleData;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
